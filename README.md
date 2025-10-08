@@ -85,13 +85,7 @@ src/
 
 ---
 
-## 🖋️ Author
 
-👤 **Your Name**
-🔗 [GitHub](https://github.com/yourusername)
-✉️ [your.email@example.com](mailto:your.email@example.com)
-
----
 
 ## 👤 Developer: Shubham Sharma
 
